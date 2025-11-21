@@ -1,7 +1,7 @@
 {
-  "name": "karaden-prg-node",
-  "version": "1.2.0",
-  "description": "Node.js library for the Karaden API.",
+  "name": "cpaas-test-node",
+  "version": "0.1.0",
+  "description": "",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
   "files": [
@@ -18,9 +18,9 @@
     "clean": "rm -rf cjs mjs types"
   },
   "author": {
-    "name": "cpaas-dev-admin-om",
-    "email": "cpaas-dev-admin-om@nttcoms.com",
-    "url": "https://github.com/karaden-prg/karaden-prg-node"
+    "name": "cpaas-sdks-test-om",
+    "email": "cpaas-sdks-test-om@nttcoms.com",
+    "url": "https://github.com/cpaas-sdks-test/cpaas-test-node"
   },
   "license": "MIT",
   "devDependencies": {
