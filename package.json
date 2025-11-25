@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karaden-prg/karaden-prg-node.git"
+    "url": "https://github.com/cpaas-sdks-test/cpaas-test-node.git"
   },
-  "homepage": "https://github.com/karaden-prg/karaden-prg-node",
+  "homepage": "https://github.com/cpaas-sdks-test/cpaas-test-node",
   "license": "MIT",
   "devDependencies": {
     "@tsconfig/node16": "^16.1.0",
